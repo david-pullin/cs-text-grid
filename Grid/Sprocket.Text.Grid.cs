@@ -17,7 +17,7 @@ namespace Sprocket.Text.Grid
     /// <summary>
     /// Represents a 2 dimensional grid with methods to write text. Writing text includes options for justification,
     /// alignment, direction (orientation) and word wrapping.
-    /// For an example of how this class can be used so write text into ASCII art 
+    /// For an example of how this class can be used to write text into ASCII art 
     /// see the example in <see cref="FromContent"/>
     /// </summary>
     public class Grid
